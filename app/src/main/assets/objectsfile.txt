@@ -1,0 +1,11 @@
+handbag
+dining table
+tv
+laptop
+mouse
+remote
+keyboard
+cell phone
+refrigerator
+book
+clock
